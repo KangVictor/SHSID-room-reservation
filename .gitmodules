@@ -1,0 +1,3 @@
+[submodule "connect-miniprogram"]
+	path = connect-miniprogram
+	url = https://github.com/KangVictor/connect-miniprogram.git
